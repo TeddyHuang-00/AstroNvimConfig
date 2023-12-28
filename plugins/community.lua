@@ -18,6 +18,7 @@ return {
   { import = "astrocommunity.pack.python-ruff" },
   { import = "astrocommunity.pack.rust" },
   { import = "astrocommunity.pack.tailwindcss" },
+  { import = "astrocommunity.pack.toml" },
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.vue" },
   { import = "astrocommunity.programming-language-support.csv-vim" },

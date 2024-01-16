@@ -11,6 +11,7 @@ return {
   { import = "astrocommunity.indent.indent-blankline-nvim" },
   { import = "astrocommunity.lsp.lsp-signature-nvim" },
   { import = "astrocommunity.media.vim-wakatime" },
+  { import = "astrocommunity.markdown-and-latex.vimtex" },
   { import = "astrocommunity.pack.cpp" },
   -- { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.json" },

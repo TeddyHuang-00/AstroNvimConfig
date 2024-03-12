@@ -12,6 +12,7 @@ return {
   { import = "astrocommunity.lsp.lsp-signature-nvim" },
   { import = "astrocommunity.media.vim-wakatime" },
   { import = "astrocommunity.markdown-and-latex.vimtex" },
+  { import = "astrocommunity.pack.bash" },
   { import = "astrocommunity.pack.cpp" },
   -- { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.json" },
@@ -23,6 +24,7 @@ return {
   { import = "astrocommunity.pack.typescript" },
   { import = "astrocommunity.pack.typst" },
   { import = "astrocommunity.pack.vue" },
+  { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.programming-language-support.csv-vim" },
   -- { import = "astrocommunity.utility.neodim" },
 }

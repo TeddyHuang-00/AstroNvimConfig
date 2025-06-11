@@ -38,6 +38,7 @@ return {
   { import = "astrocommunity.pack.typst" },
   { import = "astrocommunity.pack.vue" },
   { import = "astrocommunity.pack.yaml" },
+  { import = "astrocommunity.pack.zig" },
   { import = "astrocommunity.programming-language-support.csv-vim" },
   { import = "astrocommunity.recipes.vscode-icons" },
   -- import/override with your plugins folder

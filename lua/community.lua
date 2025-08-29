@@ -44,7 +44,7 @@ return {
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.pack.zig" },
   { import = "astrocommunity.programming-language-support.csv-vim" },
-  { import = "astrocommunity.recipes.ai" },
+  -- { import = "astrocommunity.recipes.ai" },
   { import = "astrocommunity.recipes.vscode-icons" },
   -- import/override with your plugins folder
 }

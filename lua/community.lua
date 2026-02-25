@@ -13,6 +13,7 @@ return {
   -- { import = "astrocommunity.editing-support.rainbow-delimiters-nvim" },
   { import = "astrocommunity.editing-support.todo-comments-nvim" },
   -- { import = "astrocommunity.indent.indent-blankline-nvim" },
+  { import = "astrocommunity.game.leetcode-nvim" },
   { import = "astrocommunity.lsp.lsp-signature-nvim" },
   { import = "astrocommunity.media.vim-wakatime" },
   { import = "astrocommunity.markdown-and-latex.vimtex" },

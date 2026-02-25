@@ -34,6 +34,7 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.markdown" },
   { import = "astrocommunity.pack.mdx" },
+  { import = "astrocommunity.pack.prettier" },
   { import = "astrocommunity.pack.python.base" },
   { import = "astrocommunity.pack.python.ruff" },
   { import = "astrocommunity.pack.rainbow-delimiter-indent-blankline" },
@@ -43,10 +44,13 @@ return {
   { import = "astrocommunity.pack.typescript-all-in-one" },
   { import = "astrocommunity.pack.typst" },
   { import = "astrocommunity.pack.vue" },
+  { import = "astrocommunity.pack.xml" },
   { import = "astrocommunity.pack.yaml" },
   { import = "astrocommunity.pack.zig" },
   { import = "astrocommunity.programming-language-support.csv-vim" },
   -- { import = "astrocommunity.recipes.ai" },
   { import = "astrocommunity.recipes.vscode-icons" },
+  { import = "astrocommunity.scrolling.satellite-nvim" },
+  { import = "astrocommunity.utility.neodim" },
   -- import/override with your plugins folder
 }

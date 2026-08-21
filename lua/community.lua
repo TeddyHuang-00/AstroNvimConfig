@@ -49,6 +49,7 @@ return {
   { import = "astrocommunity.pack.zig" },
   { import = "astrocommunity.programming-language-support.csv-vim" },
   -- { import = "astrocommunity.recipes.ai" },
+  { import = "astrocommunity.recipes.astrolsp-auto-signature-help" },
   { import = "astrocommunity.recipes.vscode-icons" },
   { import = "astrocommunity.scrolling.satellite-nvim" },
   { import = "astrocommunity.utility.neodim" },
